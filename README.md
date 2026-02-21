@@ -1,0 +1,1 @@
+# swaync_config
